@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 
 # Video capture setup
-cap = cv2.VideoCapture("F:/Traffic Management Project/Github Upload/videos/video.mp4")
+cap = cv2.VideoCapture("path of the video")
 if not cap.isOpened():
     print("Error: Could not open video.")
     exit()
