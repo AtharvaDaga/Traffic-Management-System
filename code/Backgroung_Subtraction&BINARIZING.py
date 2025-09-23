@@ -4,7 +4,7 @@ import numpy as np
 
 
 #---------------------------------------------------------------------------------------------------------------------------------
-cap=cv2.VideoCapture("F:/traffic Management system/Vehicle-Detection-Classification-and-Counting-main/Videos/1.avi")
+cap=cv2.VideoCapture("path of the video")
 
 #Intialize Subtractor
 algo=cv2.bgsegm.createBackgroundSubtractorMOG()

@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Video capture setup
-cap = cv2.VideoCapture("F:/traffic Management system/Vehicle-Detection-Classification-and-Counting-main/Videos/1.avi")
+cap = cv2.VideoCapture("path of the video")
 if not cap.isOpened():
     print("Error: Could not open video.")
     exit()
