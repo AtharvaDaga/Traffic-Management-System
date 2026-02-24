@@ -31,10 +31,15 @@
 
 Vehicle detection and traffic density visualization  
 
-Congestion analysis at major urban junctions  
 
-![Traffic Output – Golf Club Circle](results/output_golf_club_circle.png)  
-![Traffic Output – Pathardi Gaon Circle](results/output_pathardi_gaon_circle.png)  
+-> **Output for Golf Club Circle**  
+
+![Traffic Output – Golf Club Circle](https://github.com/AtharvaDaga/Traffic-Management-System/blob/20b6d23694c3510279f53d7fe0e655de5bc1edfe/results/Golf%20Club%20Circle.jpg)  
+
+
+-> **Output for Pathardi Gaon Circle**  
+
+![Traffic Output – Pathardi Gaon Circle](https://github.com/AtharvaDaga/Traffic-Management-System/blob/20b6d23694c3510279f53d7fe0e655de5bc1edfe/results/Pathardi%20Gaon%20Circle.jpg)  
 
 
 
